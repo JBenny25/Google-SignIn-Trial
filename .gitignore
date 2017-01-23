@@ -1,0 +1,43 @@
+## generic files to ignore
+*~
+.DS_Store
+*.swp
+*.out
+.sonar/
+*.war
+.svn/
+
+# IntelliJ AppCode
+.idea/
+
+# Bundler
+.bundle/
+
+#Cocoapods
+Pods/
+
+#Build Directory
+build/
+
+#xcode specific
+xcuserdata/
+*.pbxuser
+*.mode2v3
+*.mode1v3
+*.perspective
+*.perspectivev3
+*~.nib
+*.ipa
+*.xccheckout
+*.xcuserstate
+*.xcscmblueprint
+
+#ignore private workspace stuff added by Xcode4
+xcuserdata
+project.xcworkspace
+
+# Vim session files
+*.vim
+
+~                                                                                                                                                                                 
+~                        
