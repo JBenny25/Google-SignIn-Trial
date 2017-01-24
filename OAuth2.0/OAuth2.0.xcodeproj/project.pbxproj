@@ -13,6 +13,7 @@
 		5F6217BB1E36136F0017AD66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F6217B91E36136F0017AD66 /* Main.storyboard */; };
 		5F6217BD1E36136F0017AD66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F6217BC1E36136F0017AD66 /* Assets.xcassets */; };
 		5F6217C01E36136F0017AD66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F6217BE1E36136F0017AD66 /* LaunchScreen.storyboard */; };
+		5FE703231E374C7C00FAD30D /* googleSearch.png in Resources */ = {isa = PBXBuildFile; fileRef = 5FE703221E374C7C00FAD30D /* googleSearch.png */; };
 		9C4F1C98688A95E949C10E02 /* Pods_OAuth2_0.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FE0F3E08CA05AA26C24563A /* Pods_OAuth2_0.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		5F6217BC1E36136F0017AD66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F6217BF1E36136F0017AD66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F6217C11E36136F0017AD66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FE703221E374C7C00FAD30D /* googleSearch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = googleSearch.png; sourceTree = "<group>"; };
 		8FE0F3E08CA05AA26C24563A /* Pods_OAuth2_0.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OAuth2_0.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5EDB4EC43F8DB96E85D96A0 /* Pods-OAuth2.0.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OAuth2.0.release.xcconfig"; path = "../Pods/Target Support Files/Pods-OAuth2.0/Pods-OAuth2.0.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -73,6 +75,7 @@
 		5F6217B41E36136F0017AD66 /* OAuth2.0 */ = {
 			isa = PBXGroup;
 			children = (
+				5FE703221E374C7C00FAD30D /* googleSearch.png */,
 				5F6217B51E36136F0017AD66 /* AppDelegate.swift */,
 				5F6217B71E36136F0017AD66 /* ViewController.swift */,
 				5F6217B91E36136F0017AD66 /* Main.storyboard */,
@@ -158,6 +161,7 @@
 				5F42AF6D1E3624A300D7AA27 /* GoogleService-Info.plist in Resources */,
 				5F6217BD1E36136F0017AD66 /* Assets.xcassets in Resources */,
 				5F6217BB1E36136F0017AD66 /* Main.storyboard in Resources */,
+				5FE703231E374C7C00FAD30D /* googleSearch.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
